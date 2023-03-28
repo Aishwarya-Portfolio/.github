@@ -7,4 +7,4 @@ I'm Aishwarya Keshri😊, a DevOps enthusiast from India.
 * 🤩Currently working on - [Build and Deploy on Tomcat Server](https://github.com/Aishwarya-Portfolio/webdeploy_project)
 
 ## Connect with me:
-[![name](link to image on GH)](https://www.linkedin.com/in/aishwarya-keshri-93b24314a/)
+* [LinkedIn](https://www.linkedin.com/in/aishwarya-keshri-93b24314a/)
