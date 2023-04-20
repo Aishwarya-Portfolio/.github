@@ -4,8 +4,8 @@ I'm Aishwarya Keshri😊, a DevOps enthusiast from India.
 * 😎Working as a Support Engineer - Azure DevOps.
 * 💻Learning DevOps.
 * ♾Recently completed 
-  - [AWS DevOps Project](https://github.com/Aishwarya-Portfolio/AWSDevOpsProject)
-  - [Azure Function App Deployment using Azure DevOps](https://github.com/Aishwarya-Portfolio/Azure-Function-App-Deployment)
+  1. [AWS DevOps Project](https://github.com/Aishwarya-Portfolio/AWSDevOpsProject)
+  2. [Azure Function App Deployment using Azure DevOps](https://github.com/Aishwarya-Portfolio/Azure-Function-App-Deployment)
 * 🤩Currently working on - [Build and Deploy on Tomcat Server](https://github.com/Aishwarya-Portfolio/webdeploy_project)
 
 ## Connect with me:
