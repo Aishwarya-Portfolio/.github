@@ -8,9 +8,11 @@ I'm Aishwarya Keshri😊, a DevOps enthusiast from India.
   2. [Azure Function App Deployment using Azure DevOps](https://github.com/Aishwarya-Portfolio/Azure-Function-App-Deployment)
   3. [Build and Deploy on Tomcat Server](https://github.com/Aishwarya-Portfolio/webdeploy_project)
 * 🤩Currently working on - [90DaysOfDevOps Challenge](https://github.com/LondheShubham153/90DaysOfDevOps)
+* See my blogs on LinkedIn and Hashnode.📘
 
 ## Connect with me:
 * [LinkedIn](https://www.linkedin.com/in/aishwarya-keshri-93b24314a/)
+* [Hashnode](https://aishwaryakeshri.hashnode.dev/)
 
 ## Tools:
 <img src="https://user-images.githubusercontent.com/91592578/228264548-b84c841a-c0a1-4ad0-84e9-15c48dbf018d.png" width=50 height=50> <img src="https://user-images.githubusercontent.com/91592578/228264091-65228c2c-d45e-49e9-bd67-13591a5d0437.png" width=50 height=50> <img src="https://user-images.githubusercontent.com/91592578/228268768-77abb488-0881-48f3-a9b2-09a905201ee1.png" width=50 height=50> <img src="https://user-images.githubusercontent.com/91592578/228268293-2ecb9302-b4cf-4481-83e9-d6d086d15383.png" width=50 height=50> <img src="https://user-images.githubusercontent.com/91592578/228270030-a5b6a860-1823-4b77-85f4-b39a01884d6d.png" width=50 height=50> <img src="https://user-images.githubusercontent.com/91592578/228270609-0d88dcae-c539-4f4b-aa64-e4e113b64ab9.png" width=50 height=50> <img src="https://user-images.githubusercontent.com/91592578/233184061-283107ae-9af1-4794-8c0a-afee8e975e7d.png" width=50 height=50>
