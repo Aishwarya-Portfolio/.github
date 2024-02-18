@@ -3,7 +3,9 @@ I'm Aishwarya Keshri😊, a DevOps enthusiast from India.
 
 * 😎Working as a Support Engineer - Azure DevOps.
 * 💻Learning DevOps.
-* ♾Recently completed 
+* Certifications - Microsoft Azure Fundamentals [Az-900] (https://learn.microsoft.com/api/credentials/share/en-us/Aishwaryakeshri-1167/B5FE8C5F954495FE?sharingId=95190E19E8D0DC38)
+  
+* ♾Projects completed 
   1. [AWS DevOps Project](https://github.com/Aishwarya-Portfolio/AWSDevOpsProject)
   2. [Azure Function App Deployment using Azure DevOps](https://github.com/Aishwarya-Portfolio/Azure-Function-App-Deployment)
   3. [Build and Deploy on Tomcat Server](https://github.com/Aishwarya-Portfolio/webdeploy_project)
